@@ -20,7 +20,7 @@
 h1{
 	color:blue;
 }
-.card{
+.signup{
 	background-color:white;
 	border-radius:10px;
 }
@@ -28,9 +28,6 @@ form{
 	display:flex;
 	flex-direction:column;
 	gap:5px;
-}
-.card{
-	
 }
 .first{
 	background-color:blue;
