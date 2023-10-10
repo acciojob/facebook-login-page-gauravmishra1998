@@ -29,6 +29,9 @@ form{
 	flex-direction:column;
 	gap:5px;
 }
+img{
+	height:100px;
+}
 .first{
 	background-color:blue;
 	color:white;
